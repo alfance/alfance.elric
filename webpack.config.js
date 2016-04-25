@@ -1,7 +1,7 @@
 module.exports = {
-  entry: "./alfance.github.io/app/App.js",
+  entry: "./www/app/App.js",
   output: {
-    filename: "alfance.github.io/dist/bundle.js"
+    filename: "www/dist/bundle.js"
   },
   module: {
     loaders: [
